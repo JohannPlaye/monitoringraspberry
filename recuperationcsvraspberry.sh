@@ -5,11 +5,11 @@ RPI_USER="johann"
 RPI_HOST="88.174.193.236"
 RPI_PORT=2221
 RPI_KEY="/home/johann/.ssh/id_rsa_rpi_cron"
-RPI_DIR="/home/johann/developpement/monitoring"
+RPI_DIR="/home/johann/developpement/monitoringraspberry"
 
 # Variables locales
-LOCAL_TMP="/home/johann/developpement/monitoring/raspberrytemp"
-LOCAL_OUT="/home/johann/developpement/monitoring/etatressourceraspberry.csv"
+LOCAL_TMP="/home/johann/developpement/monitoringraspberry/raspberrytemp"
+LOCAL_OUT="/home/johann/developpement/monitoringraspberry/etatressourceraspberry.csv"
 
 # Variables PostgreSQL
 PG_HOST="localhost"
